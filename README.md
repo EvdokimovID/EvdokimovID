@@ -54,6 +54,7 @@ Algorithmic programming, design, music
 **Tools**
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual%20studio%20code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)
 ![Obsidian](https://img.shields.io/badge/Obsidian-4C2AFF?style=flat-square&logo=obsidian&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
@@ -72,6 +73,9 @@ Algorithmic programming, design, music
 ![Scikit--Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat-square&logo=Keras&logoColor=white) 
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat-square&logo=Matplotlib&logoColor=black)
+![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat-square&logo=plotly&logoColor=white)
 
 
 ## 📈 3. My stats
@@ -81,3 +85,7 @@ Algorithmic programming, design, music
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EvdokimovID&theme=dark&hide_border=false&show_icons=true)
 
 </div>
+
+
+## 🏆 4. GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=EvdokimovID&theme=radical&no-frame=false&no-bg=true&margin-w=4)
